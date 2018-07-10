@@ -14,6 +14,7 @@ To be included on the EOS Mainnet blockchain as a vote recipient, Block Producer
 ### Infrastructure
 * A diagram or simple list must be provided
 * Showing server types, hosting providers etc.
+* Must provide verifiable RPC endpoint for available running node. 
 ### Team Members
 * Images, names, and titles of all your current team members must be available and always up to date.
 ### Maintain an active json file
@@ -33,3 +34,6 @@ To be included on the EOS Mainnet blockchain as a vote recipient, Block Producer
 * Standby BPs may move into the top 21 if they have more votes than a current BP in said country.  The BP with the lowest amount of votes would then be placed into the standby position.
 # V. Violation
 * If any of the above items are not met then a BPC will not have the right to receive votes and will be removed from the list of possible BPC.
+# VI. Community participation
+* All active top 21 BPs are expected to participate in ongoing operational BP calls and vote on decisions. 
+* Must implement all maintenance changes and upgrades on his node in reasonable timeframe.
